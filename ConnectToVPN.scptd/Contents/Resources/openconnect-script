@@ -1,0 +1,5 @@
+#!/bin/sh
+OCUSER=$1
+OCPASS=$2
+OCDOMAIN=$3
+echo $OCPASS | /usr/local/bin/openconnect --passwd-on-stdin --no-cert-check --authgroup=SSLvpn --script=$(cd $(dirname $0) && pwd)/vpnc-script --user=$OCUSER $OCDOMAIN 2>&1 | tee /var/log/openconnect.log
