@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>02E4461414D1C51F007F0B9F</string>
+						<string>02E4461D14D1CCD1007F0B9F</string>
 						<key>history</key>
 						<array>
 							<string>02E4460114D1C392007F0B9F</string>
@@ -235,7 +235,7 @@
 				<key>PBXModuleWindowStatusBarHidden2</key>
 				<false/>
 				<key>RubberWindowFrame</key>
-				<string>310 184 750 502 0 0 1280 1002 </string>
+				<string>209 437 750 502 0 0 1280 1002 </string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +256,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>02E4461514D1C51F007F0B9F</string>
+						<string>02E4461E14D1CCD1007F0B9F</string>
 						<key>history</key>
 						<array>
 							<string>02E445FD14D1C1F7007F0B9F</string>
@@ -363,7 +363,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 445}}</string>
+							<string>{{0, 0}, {186, 839}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -375,14 +375,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 463}}</string>
+						<string>{{0, 0}, {203, 857}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>548 243 788 504 0 0 1280 1002 </string>
+						<string>75 -46 1280 898 0 0 1280 1002 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -410,7 +410,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>02E4461314D1C51F007F0B9F</string>
+										<string>02E4461C14D1CCD1007F0B9F</string>
 										<key>history</key>
 										<array>
 											<string>029F9C2714D1BAF000F1E45F</string>
@@ -434,18 +434,16 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 233}}</string>
+								<string>{{0, 0}, {1072, 627}}</string>
 								<key>RubberWindowFrame</key>
-								<string>548 243 788 504 0 0 1280 1002 </string>
+								<string>75 -46 1280 898 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>233pt</string>
+							<string>627pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -456,9 +454,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 238}, {580, 225}}</string>
+								<string>{{0, 632}, {1072, 225}}</string>
 								<key>RubberWindowFrame</key>
-								<string>548 243 788 504 0 0 1280 1002 </string>
+								<string>75 -46 1280 898 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -467,7 +465,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>580pt</string>
+					<string>1072pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -620,12 +618,13 @@
 	<array>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
-		<string>/Users/katie/Documents/ocgui/OpenConnect GUI/OpenConnect GUI.xcodeproj</string>
 		<string>02E4460314D1C392007F0B9F</string>
 		<string>029F9C2B14D1BAF000F1E45F</string>
+		<string>/Users/katie/Documents/ocgui/OpenConnect GUI/OpenConnect GUI.xcodeproj</string>
+		<string>02E445DE14D1C03A007F0B9F</string>
 	</array>
 	<key>WindowString</key>
-	<string>548 243 788 504 0 0 1280 1002 </string>
+	<string>75 -46 1280 898 0 0 1280 1002 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -1,7 +1,7 @@
 on clicked theObject
 	set domain to "vpn.iastate.edu"
 	tell window "Main Window"
-		disable button "ConnectButton"
+		button "ConnectButton"
 		set my_name to contents of text field "UsernameBox"
 		set my_pass to contents of text field "PasswordBox"
 	end tell
