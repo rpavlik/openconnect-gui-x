@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	029F9C2114D1BABC00F1E45F /* openconnect-script */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 201}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	029F9C2714D1BAF000F1E45F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 029F9C2114D1BABC00F1E45F /* openconnect-script */;
+		name = "openconnect-script: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	029F9C2814D1BAF000F1E45F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* OpenConnect GUI.applescript */;
+	};
+	029F9C2914D1BAF000F1E45F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 029F9C2114D1BABC00F1E45F /* openconnect-script */;
+		name = "openconnect-script: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	029F9C2A14D1BAF000F1E45F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* OpenConnect GUI.applescript */;
+		name = "OpenConnect GUI.applescript: 6";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	029F9C2D14D1BAF000F1E45F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* OpenConnect GUI.applescript */;
+		name = "OpenConnect GUI.applescript: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	029F9C2E14D1BAF000F1E45F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* OpenConnect GUI.applescript */;
+		name = "OpenConnect GUI.applescript: 6";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	257572C2072881A4000BE9CA /* OpenConnect GUI */ = {
+		activeExec = 0;
+		executables = (
+			25D9445407B1533600FF306F /* OpenConnect GUI */,
+		);
+	};
+	25D9445407B1533600FF306F /* OpenConnect GUI */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-1" = {
+				PBXLSLaunchAction = 1;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = ASKDebuggerLaunchConfig;
+				displayName = "AppleScript Debugger";
+				identifier = com.apple.AppleScriptStudio.ASKDebugLaunchConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = ASKDebugger;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = AEDebug;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugSends;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugReceives;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugVerbose;
+				value = 1;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "OpenConnect GUI";
+		sourceDirectories = (
+		);
+	};
+	25D9445A07B1533700FF306F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	25D9445B07B1533700FF306F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25D9445407B1533600FF306F /* OpenConnect GUI */;
+		activeTarget = 257572C2072881A4000BE9CA /* OpenConnect GUI */;
+		addToTargets = (
+			257572C2072881A4000BE9CA /* OpenConnect GUI */,
+		);
+		codeSenseManager = 25D9445B07B1533700FF306F /* Code sense */;
+		executables = (
+			25D9445407B1533600FF306F /* OpenConnect GUI */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349289075;
+			PBXWorkspaceStateSaveDate = 349289075;
+		};
+		perUserProjectItems = {
+			029F9C2714D1BAF000F1E45F /* PBXTextBookmark */ = 029F9C2714D1BAF000F1E45F /* PBXTextBookmark */;
+			029F9C2814D1BAF000F1E45F /* PBXBookmark */ = 029F9C2814D1BAF000F1E45F /* PBXBookmark */;
+			029F9C2914D1BAF000F1E45F /* PBXTextBookmark */ = 029F9C2914D1BAF000F1E45F /* PBXTextBookmark */;
+			029F9C2A14D1BAF000F1E45F /* PBXTextBookmark */ = 029F9C2A14D1BAF000F1E45F /* PBXTextBookmark */;
+			029F9C2D14D1BAF000F1E45F /* PBXTextBookmark */ = 029F9C2D14D1BAF000F1E45F /* PBXTextBookmark */;
+			029F9C2E14D1BAF000F1E45F /* PBXTextBookmark */ = 029F9C2E14D1BAF000F1E45F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25D9445A07B1533700FF306F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DA206CF3015C4E8B03C91932 /* OpenConnect GUI.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 143}";
+			sepNavWindowFrame = "{{15, 439}, {750, 558}}";
+		};
+	};
+}
